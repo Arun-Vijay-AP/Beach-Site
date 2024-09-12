@@ -1,0 +1,314 @@
+[
+    {
+      "name": "Om Beach",
+      "image": "../images/om_beach.png",
+      "description": "A beautiful and tranquil beach known for its crescent shape and serene atmosphere.",
+      "rating": "4.4/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Moderate (Peak: Weekends)"
+    },
+    {
+      "name": "Kovalam Beach",
+      "image": "../images/kovalam_beach.jpg",
+      "description": "A serene and scenic beach known for its clear waters and relaxed vibe.",
+      "rating": "4.7/5",
+      "quality": "Water: Excellent | Sand: Pristine | Air: Fresh",
+      "crowd": "Light (Peak: Evenings)"
+    },
+    {
+      "name": "Varkala Beach",
+      "image": "../images/varkala_beach.jpg",
+      "description": "Known for its cliffs and unique geological formations, Varkala Beach offers a tranquil experience.",
+      "rating": "4.6/5",
+      "quality": "Water: Excellent | Sand: Clean | Air: Fresh",
+      "crowd": "Moderate (Peak: Winter Season)"
+    },
+    {
+      "name": "Rishikonda Beach",
+      "image": "../images/rishikonda_beach.jpg",
+      "description": "A scenic beach near Visakhapatnam known for its golden sands and clean waters.",
+      "rating": "4.3/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Moderate (Peak: Weekends)"
+    },
+    {
+      "name": "Calangute Beach",
+      "image": "../images/calangute_beach.jpg",
+      "description": "One of Goa’s most popular beaches, known for its bustling atmosphere and vibrant nightlife.",
+      "rating": "4.2/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "High (Peak: Holidays)"
+    },
+    {
+      "name": "Marina Beach",
+      "image": "images/beach/marina_beach.jpg",
+      "description": "The world’s second longest urban beach, famous for its stunning sunsets.",
+      "rating": "4.5/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Moderate (Peak: Weekends)"
+    },
+    {
+      "name": "Maravanthe Beach",
+      "image": "maravanthe_beach.jpg",
+      "description": "Known for its unique location where the Arabian Sea and the Souparnika River meet.",
+      "rating": "4.4/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Light (Peak: Weekends)"
+    },
+    {
+      "name": "Velankanni Beach",
+      "image": "velankanni_beach.jpg",
+      "description": "A calm and serene beach famous for its nearby church and peaceful environment.",
+      "rating": "4.3/5",
+      "quality": "Water: Moderate | Sand: Clean | Air: Fresh",
+      "crowd": "Light (Peak: Weekends)"
+    },
+    {
+      "name": "Alleppey Beach",
+      "image": "alleppey_beach.jpg",
+      "description": "Known for its backwaters and houseboat rides, Alleppey Beach offers a unique experience.",
+      "rating": "4.5/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Moderate (Peak: Holidays)"
+    },
+    {
+      "name": "Poovar Beach",
+      "image": "poovar_beach.jpg",
+      "description": "A tranquil beach located where the Neyyar River meets the Arabian Sea.",
+      "rating": "4.6/5",
+      "quality": "Water: Excellent | Sand: Pristine | Air: Fresh",
+      "crowd": "Light (Peak: Weekends)"
+    },
+    {
+      "name": "Dhanushkodi Beach",
+      "image": "dhanushkodi_beach.jpg",
+      "description": "A remote and eerie beach located at the southeastern tip of Pamban Island.",
+      "rating": "4.2/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Light (Less Crowded)"
+    },
+    {
+      "name": "Cherai Beach",
+      "image": "cherai_beach.jpg",
+      "description": "Known for its beautiful golden sands and tranquil backwaters.",
+      "rating": "4.4/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Moderate (Peak: Weekends)"
+    },
+    {
+      "name": "Half Moon Beach",
+      "image": "half_moon_beach.jpg",
+      "description": "A secluded and serene beach accessible by boat or a trek through the forest.",
+      "rating": "4.5/5",
+      "quality": "Water: Excellent | Sand: Clean | Air: Fresh",
+      "crowd": "Light (Less Crowded)"
+    },
+    {
+      "name": "Hawah Beach",
+      "image": "hawah_beach.jpg",
+      "description": "A beautiful and less crowded beach in Kovalam, ideal for relaxation.",
+      "rating": "4.3/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Light (Peak: Evenings)"
+    },
+    {
+      "name": "Elliot's Beach",
+      "image": "elliots_beach.jpg",
+      "description": "A quieter alternative to Marina Beach, known for its peaceful environment.",
+      "rating": "4.1/5",
+      "quality": "Water: Moderate | Sand: Clean | Air: Fresh",
+      "crowd": "Light to Moderate (Peak: Weekends)"
+    },
+    {
+      "name": "Muzhappilangad Beach",
+      "image": "muzhappilangad_beach.jpg",
+      "description": "The longest drive-in beach in India, known for its smooth sands and scenic beauty.",
+      "rating": "4.6/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Moderate (Peak: Weekends)"
+    },
+    {
+      "name": "Kudle Beach",
+      "image": "kudle_beach.jpg",
+      "description": "A tranquil beach ideal for those seeking solitude and natural beauty.",
+      "rating": "4.5/5",
+      "quality": "Water: Excellent | Sand: Clean | Air: Fresh",
+      "crowd": "Light (Peak: Weekends)"
+    },
+    {
+      "name": "Ponnani Beach",
+      "image": "ponnani_beach.jpg",
+      "description": "A serene beach known for its tranquil surroundings and local charm.",
+      "rating": "4.2/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Light (Less Crowded)"
+    },
+    {
+      "name": "Paradise Beach",
+      "image": "paradise_beach.jpg",
+      "description": "A picturesque beach with white sands and clear blue waters, perfect for relaxation.",
+      "rating": "4.7/5",
+      "quality": "Water: Excellent | Sand: Pristine | Air: Fresh",
+      "crowd": "Moderate (Peak: Weekends)"
+    },
+    {
+      "name": "Kozhikode Beach",
+      "image": "kozhikode_beach.jpg",
+      "description": "A popular beach in Kozhikode known for its local eateries and scenic sunsets.",
+      "rating": "4.3/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Moderate (Peak: Evenings)"
+    },
+    {
+      "name": "Bekal Beach",
+      "image": "bekal_beach.jpg",
+      "description": "Famous for the Bekal Fort, this beach offers stunning views and a peaceful environment.",
+      "rating": "4.4/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Moderate (Peak: Weekends)"
+    },
+    {
+      "name": "Mahabalipuram Beach",
+      "image": "images/beach/mahabalipuram_beach.jpg",
+      "description": "Known for its ancient temples and rock formations, this beach offers a blend of history and beauty.",
+      "rating": "4.5/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Moderate (Peak: Weekends)"
+    },
+    {
+      "name": "Samudra Beach",
+      "image": "samudra_beach.jpg",
+      "description": "A serene beach known for its clear waters and calm environment.",
+      "rating": "4.2/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Light (Less Crowded)"
+    },
+    {
+      "name": "Thiruvambadi Beach",
+      "image": "thiruvambadi_beach.jpg",
+      "description": "A tranquil beach in Thrissur known for its clean sands and peaceful ambiance.",
+      "rating": "4.4/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Light (Peak: Weekends)"
+    },
+    {
+      "name": "Edava Beach",
+      "image": "edava_beach.jpg",
+      "description": "A serene beach with less commercial activity, perfect for a peaceful getaway.",
+      "rating": "4.3/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Light (Less Crowded)"
+    },
+    {
+      "name": "Tuticorin Roach Beach",
+      "image": "tuticorin_roach_beach.jpg",
+      "description": "A less crowded beach known for its unique local charm and serenity.",
+      "rating": "4.2/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Light (Less Crowded)"
+    },
+    {
+      "name": "Auroville Beach",
+      "image": "auroville_beach.jpg",
+      "description": "A tranquil beach near Auroville, known for its peaceful environment and clean waters.",
+      "rating": "4.6/5",
+      "quality": "Water: Excellent | Sand: Clean | Air: Fresh",
+      "crowd": "Light (Less Crowded)"
+    },
+    {
+      "name": "Hosdurg Beach",
+      "image": "hosdurg_beach.jpg",
+      "description": "A calm beach known for its local beauty and less crowded environment.",
+      "rating": "4.3/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Light (Less Crowded)"
+    },
+    {
+      "name": "Panambur Beach",
+      "image": "panambur_beach.jpg",
+      "description": "A popular beach in Mangalore known for its cleanliness and local events.",
+      "rating": "4.5/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Moderate (Peak: Weekends)"
+    },
+    {
+      "name": "Meenkunnu Beach",
+      "image": "meenkunnu_beach.jpg",
+      "description": "A scenic beach known for its clear waters and peaceful environment.",
+      "rating": "4.4/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Light (Less Crowded)"
+    },
+    {
+      "name": "Thirumullavaram Beach",
+      "image": "thirumullavaram_beach.jpg",
+      "description": "A serene beach known for its calm waters and peaceful surroundings.",
+      "rating": "4.3/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Light (Less Crowded)"
+    },
+    {
+      "name": "Mangalore Beach",
+      "image": "mangalore_beach.jpg",
+      "description": "A popular beach in Mangalore with a lively atmosphere and local attractions.",
+      "rating": "4.2/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Moderate (Peak: Weekends)"
+    },
+    {
+      "name": "Padinharekara Beach",
+      "image": "padinharekara_beach.jpg",
+      "description": "A tranquil beach known for its scenic beauty and less crowded environment.",
+      "rating": "4.4/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Light (Less Crowded)"
+    },
+    {
+      "name": "Covelong Beach",
+      "image": "covelong_beach.jpg",
+      "description": "A beautiful beach near Chennai known for its water sports and clean environment.",
+      "rating": "4.5/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Moderate (Peak: Weekends)"
+    },
+    {
+      "name": "Beypore Beach",
+      "image": "beypore_beach.jpg",
+      "description": "A scenic beach in Kozhikode known for its historic Beypore port and local charm.",
+      "rating": "4.3/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Moderate (Peak: Weekends)"
+    },
+    {
+      "name": "Yarada Beach",
+      "image": "yarada_beach.jpg",
+      "description": "A picturesque beach known for its clean environment and scenic views.",
+      "rating": "4.6/5",
+      "quality": "Water: Excellent | Sand: Clean | Air: Fresh",
+      "crowd": "Light (Less Crowded)"
+    },
+    {
+      "name": "Kappil Beach",
+      "image": "kappil_beach.jpg",
+      "description": "A tranquil beach known for its scenic beauty and less crowded environment.",
+      "rating": "4.4/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Light (Less Crowded)"
+    },
+    {
+      "name": "Kappad Beach",
+      "image": "kappad_beach.jpg",
+      "description": "A historic beach where Vasco da Gama first landed in India, known for its scenic views.",
+      "rating": "4.3/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Moderate (Peak: Weekends)"
+    },
+    {
+      "name": "Murudeshwar Beach",
+      "image": "murudeshwar_beach.jpg",
+      "description": "Known for its large Shiva statue and scenic surroundings, Murudeshwar Beach offers a unique experience.",
+      "rating": "4.6/5",
+      "quality": "Water: Good | Sand: Clean | Air: Fresh",
+      "crowd": "Moderate (Peak: Weekends)"
+    }
+  ]

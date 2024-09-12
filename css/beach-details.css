@@ -1,0 +1,153 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f8ff;
+  color: #333;
+  background-image: url('../images/beach4.jpg');
+  background-size: contain;
+  background-position: center;
+  background-repeat: repeat-y;
+}
+
+header {
+  background: #026072;
+  color: #fff;
+  padding: 20px 10%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header .logo h1 {
+  margin: 0;
+  font-size: 30px;
+}
+
+header nav ul a {
+  margin-right: 30%;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+/* Beach Search Section */
+.beach-details {
+  color: #ffffff;
+  padding: 50px 10%;
+  text-align: center;
+}
+
+.beach-details h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+#beachForm {
+  margin-bottom: 30px;
+}
+
+#beachForm input[type="text"] {
+  padding: 10px;
+  width: 300px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+#beachForm button {
+  padding: 10px 20px;
+  background-color: #008cba;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+#beachForm button:hover {
+  background-color: #005f8c;
+}
+
+/* Search Results */
+.search-results {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.beach-card {
+  display: flex;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: #fff;
+  width: 1000px;
+  height: 300px;
+  text-align: left;
+  transition: box-shadow 0.3s ease;
+}
+
+.beach-card:hover {
+  box-shadow: 10px 40px 100px rgba(0, 0, 0, 0.2);
+}
+
+.beach-card img {
+  width: 40%; /* Image takes 40% of the card width */
+  height: 100%;
+  object-fit: cover;
+}
+
+.beach-card-content {
+  padding: 15px;
+  flex: 1; /* Details take the remaining space */
+}
+
+.beach-card-content h3 {
+  margin: 0 0 10px;
+  font-size: 30px;
+  text-align: center;
+  color: #008cba;
+}
+
+.beach-card-content p {
+  font-size: 20px;
+  color: #666;
+  margin: 5px 0;
+}
+
+.beach-card-content .rating {
+  color: #ffa500;
+  font-weight: bold;
+}
+
+/* Footer */
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 15px 10%;
+  margin-top: 100%;
+}
+
+footer p {
+  margin: 0;
+  font-size: 14px;
+}

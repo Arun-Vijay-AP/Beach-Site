@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Beach Details</title>
+    <link rel="stylesheet" href="css/beach-detail.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- For graphs -->
+  </head>
+  <body>
+    <!-- Header Section -->
+    <header>
+      <nav>
+        <div class="logo">
+          <h1>🪴Beach Paradise</h1>
+        </div>
+        <ul class="nav-links">
+          <li><a href="main.html">Home</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Beach Details Section -->
+    <!-- Beach Details Section -->
+    <section id="beach-details" class="beach-details-section">
+      <div class="content-container">
+        <div class="details-section">
+          <h2 id="beachName">Beach Name</h2>
+
+          <!-- Beach Description and Rating -->
+          <p id="beachDescription"></p>
+          <p id="beachRating"></p>
+
+          <!-- Tsunami History -->
+          <p id="tsunamiHistory"></p>
+
+          <!-- Famous Places Around the Beach -->
+          <h3>Famous Places Around</h3>
+          <ul id="famousPlaces"></ul>
+
+          <!-- Best Hotels Nearby -->
+          <h3>Best Hotels Nearby</h3>
+          <ul id="bestHotels"></ul>
+
+          <!-- Additional Information -->
+          <p id="safetyTips"></p>
+          <p id="activities"></p>
+
+          <!-- Beach Images -->
+          <div class="beach-images">
+            <img src="images/marina1.webp" alt="Beach Image 1" />
+            <img src="images/marina2.jpg" alt="Beach Image 2" />
+            <img src="images/beach3.jpeg" alt="Beach Image 3" />
+            <img src="images/beach4.jpg" alt="Beach Image 4" />
+          </div>
+        </div>
+        <div class="charts-section">
+          <!-- Monthly Crowd Population Chart -->
+          <div class="chart-container">
+            <canvas id="crowdChart"></canvas>
+          </div>
+
+          <!-- Quality Rating Chart -->
+          <div class="chart-container">
+            <canvas id="qualityChart"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+      <p>&copy; 2024 Beach Paradise. All rights reserved.</p>
+    </footer>
+
+    <script src="js/beach-detail.js"></script>
+  </body>
+</html>

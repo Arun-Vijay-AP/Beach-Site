@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Marina Beach",
+        "images": ["images/beach1.jpeg", "images/beach2.jpeg", "images/beach3.jpeg", "images/beach4.jpg"],
+        "description": "A beautiful beach with clear water and soft sand.",
+        "rating": 4.5,
+        "quality": {
+            "air": 90,
+            "water": 85,
+            "sand": 80
+        },
+        "crowdData": {
+            "months": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+            "values": [50, 60, 80, 70, 90, 100, 120, 110, 90, 80, 60, 50]
+        },
+        "tsunamiHistory": "No significant tsunamis in the past 50 years.",
+        "famousPlaces": [
+            "Lighthouse",
+            "Marina Aquarium",
+            "Santhome Basilica"
+        ],
+        "bestHotels": [
+            "Sea View Hotel",
+            "Beachfront Resort"
+        ],
+        "additionalInfo": {
+            "safetyTips": "Swim only in designated areas. Be aware of strong currents.",
+            "activities": "Beach volleyball, sunbathing, surfing lessons."
+        }
+    }
+]
